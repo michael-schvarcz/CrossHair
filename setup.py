@@ -54,7 +54,7 @@ setup(
             "black==25.9.0",  # sync this with .pre-commit-config.yml
             "deal>=4.13.0",
             "icontract>=2.4.0",
-            "isort==5.11.5",  # sync this with .pre-commit-config.yml
+            "isort==6.1.0",  # sync this with .pre-commit-config.yml
             "mypy==1.18.1",  # sync this with .pre-commit-config.yml
             "numpy==1.24.0; python_version < '3.12'",
             "numpy==2.3.3; python_version >= '3.12'",
