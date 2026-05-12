@@ -65,7 +65,7 @@ setup(
             "sphinx>=3.4.3",
             "sphinx-rtd-theme>=0.5.1",
             "rst2pdf>=0.102",
-            "z3-solver==4.15.4.0",
+            "z3-solver==4.16.0.0",
         ]
     },
     classifiers=[
