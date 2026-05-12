@@ -59,7 +59,7 @@ setup(
             "numpy==1.24.0; python_version < '3.12'",
             "numpy==2.3.3; python_version >= '3.12'",
             "pre-commit~=2.20",
-            "pytest==8.3.5",
+            "pytest==8.4.2",
             "pytest-xdist==3.8.0",
             "setuptools",
             "sphinx>=3.4.3",
